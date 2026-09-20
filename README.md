@@ -2,4 +2,4 @@
 practice
 
 #Teacher
-Apna college
+Apna college.
